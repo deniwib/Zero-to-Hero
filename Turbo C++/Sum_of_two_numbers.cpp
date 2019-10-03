@@ -15,5 +15,6 @@ int main()
   cout <<"sum of the numbers: " << e << endl;
   cout <<"subtraction of the numbers: " << f << endl;
   cout <<"multiplication of the numbers: " << d << endl;
-  return 0;
+  
+	return 0;
 }
